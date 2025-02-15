@@ -12,6 +12,8 @@ DOMAIN-SUFFIX,dot.sb
 
 # 其他网站
 DOMAIN-SUFFIX,fast.com
+DOMAIN-SUFFIX,transcan.org
+DOMAIN-KEYWORD,transcan
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
