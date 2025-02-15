@@ -2,6 +2,8 @@
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,transcan.org
 DOMAIN-KEYWORD,transcan
+DOMAIN-SUFFIX,metamask.io
+DOMAIN-KEYWORD,metamask
 
 
 # IP段匹配
