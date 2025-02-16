@@ -1,9 +1,11 @@
-# 交易所：币安 and OKX
+# 交易所：币安 and OKX and hyper
 # 域名关键字匹配
 # DOMAIN-KEYWORD,binance
 # DOMAIN-KEYWORD,okx
+# DOMAIN-KEYWORD,hyperliquid
 # 域名后缀匹配
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,binance.cloud
 DOMAIN-SUFFIX,binance.im
 DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,app.hyperliquid.xyz
