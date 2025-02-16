@@ -1,8 +1,10 @@
-# 内容：
+# 交易所：币安 and OKX
 # 域名关键字匹配
 # DOMAIN-KEYWORD,binance
 # DOMAIN-KEYWORD,okx
 # 域名后缀匹配
-DOMAIN,copilot.microsoft.com
-DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,binance.im
+DOMAIN-SUFFIX,okx.com
 
