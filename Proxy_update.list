@@ -4,6 +4,9 @@ DOMAIN-SUFFIX,transcan.org
 DOMAIN-KEYWORD,transcan
 DOMAIN-SUFFIX,metamask.io
 DOMAIN-KEYWORD,metamask
+DOMAIN-SUFFIX,starpower.world
+DOMAIN-KEYWORD,starpower
+
 
 
 # IP段匹配
