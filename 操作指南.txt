@@ -1,7 +1,19 @@
+
+# 一键导入旁路由 clash配置 
 1、打开MobaXterm-ssh工具
 2、把openclash文件 拖入到etc/config/目录中
 3、所有配置都会重置
 
-
-
 然后根据需求一键配置clash订阅信息。
+
+
+
+# 后期维护域名的方法
+1、如果国外域名在国内无法打开，则需要添加到国外规则内，
+2、找到Proxy_update1.list 文件，在里面添加对应的域名。
+3、注意修改后不会立刻生效。需要等待几小时
+4、如果想要立刻生效可以修改Proxy_update1.list 这个文件名，同时找到Clash-Myself.ini文件，同步更新Proxy_update1.list
+
+5、若遇到国内域名无法打开，可能是被dns污染了
+6、需要在 whatsmydns.me 上查询真实的dns ，找到一个ip地址复制。
+7、回到软路由，在“网络”-“DHCH/DNS”-“主机名映射”，这里添加对应的域名和刚才复制过来的IP。保存即可。
