@@ -1,3 +1,7 @@
-1、打开MobaXterm
-2、把openclash 拖入到etc/config/目录中
+1、打开MobaXterm-ssh工具
+2、把openclash文件 拖入到etc/config/目录中
 3、所有配置都会重置
+
+
+
+然后根据需求一键配置clash订阅信息。
